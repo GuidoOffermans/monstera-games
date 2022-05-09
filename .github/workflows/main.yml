@@ -15,4 +15,4 @@ jobs:
         username: gh-games-monsteralabs
         password: ${{ secrets.password }}
         protocol: ftps
-        port: 8000 # t
+
